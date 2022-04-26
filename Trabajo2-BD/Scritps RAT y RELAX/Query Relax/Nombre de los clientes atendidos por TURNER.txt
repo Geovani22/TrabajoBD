@@ -1,0 +1,1 @@
+π clientes.nombre σ empleados.nombre = 'TURNER' and ventas.EMPLEADOS_rut = empleados.rut and ventas.CLIENTES_rut = clientes.rut ( ( clientes ⨯ ventas ) ⨯ empleados )

@@ -1,0 +1,1 @@
+π num_venta σ nombre = 'WARD' and ventas.EMPLEADOS_rut = empleados.rut ( ventas ⨯ empleados )

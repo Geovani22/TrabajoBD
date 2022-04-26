@@ -1,0 +1,1 @@
+π nombre, rut σ comuna = 'Providencia' clientes
