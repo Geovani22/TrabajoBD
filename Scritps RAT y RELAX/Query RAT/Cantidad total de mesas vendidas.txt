@@ -1,0 +1,1 @@
+π sumven γ ; SUM(ventas_detalle.cantidad)→sumven σ ventas_detalle.PRODUCTOS_codigo = productos.codigo and productos.nombre = 'Mesa' ( ventas_detalle ⨯ productos )

@@ -1,0 +1,1 @@
+Π{clientes.nombre}(σ{empleados.nombre = 'TURNER'  ∧  ventas.EMPLEADOS_rut = empleados.rut  ∧  ventas.CLIENTES_rut = clientes.rut}(clientes × ventas × empleados))

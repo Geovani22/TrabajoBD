@@ -1,0 +1,1 @@
+Π{num_venta}(σ{nombre = 'WARD' ∧ ventas.EMPLEADOS_rut = empleados.rut}(ventas × empleados))

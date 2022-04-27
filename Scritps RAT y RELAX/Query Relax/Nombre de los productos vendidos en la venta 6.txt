@@ -1,0 +1,1 @@
+π nombre σ VENTAS_num_venta = 6 and productos.codigo = ventas_detalle.PRODUCTOS_codigo ( productos ⨯ ventas_detalle )
