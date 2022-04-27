@@ -72,7 +72,7 @@ codigo;nombre;precio
 }
 
 ventas={
-num_venta;EMPLEADOS_rut;CLIENTES_rut;monte;Fecha
+num_venta;EMPLEADOS_rut;CLIENTES_rut;monto;Fecha
 1;6;10;822628;2020-06-18
 2;5;8;118207;2013-09-01
 3;5;7;570622;2020-10-15
