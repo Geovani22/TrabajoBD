@@ -1,1 +1,0 @@
-π clientes.nombre π clientes.nombre, clientes.rut σ clientes.rut = ventas.CLIENTES_rut and ventas.num_venta = ventas_detalle.VENTAS_num_venta and ventas_detalle.PRODUCTOS_codigo = productos.codigo and productos.precio = 30000 ( ( ( clientes ⨯ ventas ) ⨯ ventas_detalle ) ⨯ productos )

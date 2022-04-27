@@ -1,1 +1,0 @@
-Π{precio, nombre}(σ{nombre = 'Televisor' ∨ nombre ='Proyector'}(productos))
