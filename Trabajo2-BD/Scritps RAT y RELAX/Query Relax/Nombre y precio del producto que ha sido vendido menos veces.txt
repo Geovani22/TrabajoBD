@@ -1,0 +1,3 @@
+π minprod γ ; MIN(suma)→minprod ρ total ( π PRODUCTOS_codigo, suma γ PRODUCTOS_codigo; SUM(cantidad)→suma ventas_detalle )
+
+π productos.nombre, productos.precio σ productos.codigo = total.PRODUCTOS_codigo and total.suma = 1 ( productos ⨯ ρ total ( π PRODUCTOS_codigo, suma γ PRODUCTOS_codigo; SUM(cantidad)→suma ventas_detalle ) )

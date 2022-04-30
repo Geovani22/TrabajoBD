@@ -1,0 +1,1 @@
+π empco γ ; COUNT(empleados.rut)→empco σ empleados.sueldo > grado.sueldo_inf and empleados.sueldo < grado.sueldo_sup and grado.grado = 2 ( empleados ⨯ grado )

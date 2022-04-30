@@ -1,0 +1,1 @@
+π a.nombre, sumger γ a.nombre, a.rut; COUNT(empleados.rut)→sumger σ empleados.rut_jefe = a.rut ( empleados ⨯ ρ a ( π rut, nombre σ cargo = 'MANAGER' empleados ) )
