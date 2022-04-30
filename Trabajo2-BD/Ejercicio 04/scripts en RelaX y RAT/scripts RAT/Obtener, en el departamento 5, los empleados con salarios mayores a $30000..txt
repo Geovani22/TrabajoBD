@@ -1,0 +1,1 @@
+Π{FNAME, LNAME}(σ{SALARY > 30000  ∧ DNO = 5}(employee))

@@ -1,0 +1,1 @@
+Π{EMP.FNAME, EMP.LNAME}(σ(JEF.SUPERSSN =  EMP.SSN  ∧ EMP.SALARY > JEF.SALARY}(employee = JEF  ×  employee = EMP))

@@ -1,0 +1,1 @@
+Π{EMP.FNAME, EMP.LNAME, JEF.FNAME, DNAME}(σ(JEF.SUPERSSN =  EMP.SSN  ∧ EMP.DNO =DNUMBER}(employee = JEF  ×  employee = EMP    ×  department))

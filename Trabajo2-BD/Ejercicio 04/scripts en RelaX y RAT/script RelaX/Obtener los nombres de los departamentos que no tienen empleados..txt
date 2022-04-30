@@ -1,0 +1,1 @@
+π DNUMBER,DNAME department ⋈ (π DNUMBER department - π DNO employee)
