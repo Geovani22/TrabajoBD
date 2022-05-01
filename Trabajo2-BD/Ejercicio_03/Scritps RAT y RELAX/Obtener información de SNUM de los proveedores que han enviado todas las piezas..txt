@@ -1,0 +1,1 @@
+Π{PROVEEDOR_SNUM,PIEZA_PNUM}(envio)⋈proveedor
