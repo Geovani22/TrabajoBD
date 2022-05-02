@@ -1,0 +1,1 @@
+π APELLIDO σ APELLIDO like 'C%' plantilla

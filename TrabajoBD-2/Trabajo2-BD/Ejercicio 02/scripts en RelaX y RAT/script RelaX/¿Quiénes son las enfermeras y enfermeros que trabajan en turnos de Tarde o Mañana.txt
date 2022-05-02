@@ -1,0 +1,1 @@
+π APELLIDO σ TURNO ≠ 'N' and FUNCION ≠ 'Interno' plantilla

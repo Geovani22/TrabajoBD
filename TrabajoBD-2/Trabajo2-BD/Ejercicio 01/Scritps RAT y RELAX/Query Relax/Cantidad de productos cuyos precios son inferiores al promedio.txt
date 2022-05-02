@@ -1,0 +1,3 @@
+π avgpr γ ; AVG(precio)→avgpr productos
+
+π precinf γ ; COUNT(codigo)→precinf σ productos.precio < (81555.25) productos

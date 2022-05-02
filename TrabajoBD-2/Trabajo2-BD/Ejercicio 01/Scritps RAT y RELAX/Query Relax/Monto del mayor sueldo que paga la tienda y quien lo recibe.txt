@@ -1,0 +1,3 @@
+π maxsu γ ; MAX(sueldo)→maxsu empleados
+
+π nombre, sueldo σ sueldo = 804095 empleados

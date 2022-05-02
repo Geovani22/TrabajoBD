@@ -1,0 +1,1 @@
+π productos.nombre π productos.nombre, productos.codigo σ productos.codigo = ventas_detalle.PRODUCTOS_codigo and ventas_detalle.VENTAS_num_venta = ventas.num_venta and ventas.CLIENTES_rut = clientes.rut and clientes.comuna = 'Las Condes' ( ( ( productos ⨯ ventas_detalle ) ⨯ ventas ) ⨯ clientes )

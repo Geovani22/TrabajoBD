@@ -1,0 +1,1 @@
+π salprom γ ; AVG(SALARIO)→salprom σ UPPER(OFICIO) = 'ANALISTA' emp

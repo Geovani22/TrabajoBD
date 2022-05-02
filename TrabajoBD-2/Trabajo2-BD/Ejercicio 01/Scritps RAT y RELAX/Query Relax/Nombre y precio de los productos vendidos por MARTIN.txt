@@ -1,0 +1,1 @@
+π productos.precio, productos.nombre σ empleados.nombre = 'MARTIN' and ventas.EMPLEADOS_rut = empleados.rut and ventas.num_venta = ventas_detalle.VENTAS_num_venta and ventas_detalle.PRODUCTOS_codigo = productos.codigo ( ( ( productos ⨯ ventas ) ⨯ empleados ) ⨯ ventas_detalle )

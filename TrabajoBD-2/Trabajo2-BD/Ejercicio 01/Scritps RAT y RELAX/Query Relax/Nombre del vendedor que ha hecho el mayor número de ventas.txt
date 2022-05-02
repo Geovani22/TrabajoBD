@@ -1,0 +1,3 @@
+π sumaxv γ ; MAX(sumemven)→sumaxv ρ total ( π empleados.rut, sumemven γ empleados.rut; COUNT(num_venta)→sumemven σ empleados.rut = ventas.EMPLEADOS_rut ( empleados ⨯ ventas ) )
+
+π empleados.nombre σ empleados.rut = total.rut and total.sumemven = 4 ( empleados ⨯ ρ total ( π empleados.rut, sumemven γ empleados.rut; COUNT(num_venta)→sumemven σ empleados.rut = ventas.EMPLEADOS_rut ( empleados ⨯ ventas ) ) )

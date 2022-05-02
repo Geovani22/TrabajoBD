@@ -1,0 +1,1 @@
+π clientes.comuna, sumclienc γ clientes.comuna; SUM(ventas.monto)→sumclienc σ ventas.CLIENTES_rut = clientes.rut ( ventas ⨯ clientes )

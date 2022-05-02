@@ -1,0 +1,3 @@
+π sumax γ ; MAX(suma)→sumax ρ total ( π EMPLEADOS_rut, suma γ EMPLEADOS_rut; SUM(monto)→suma ventas )
+
+π empleados.nombre σ empleados.rut = total.EMPLEADOS_rut and total.suma = 2031926 ( empleados ⨯ ρ total ( π EMPLEADOS_rut, suma γ EMPLEADOS_rut; SUM(monto)→suma ventas ) )
