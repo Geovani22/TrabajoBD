@@ -1,1 +1,0 @@
-π empleados.nombre, emplvent γ empleados.nombre, empleados.rut; SUM(ventas.monto)→emplvent σ ventas.EMPLEADOS_rut = empleados.rut ( empleados ⨯ ventas )

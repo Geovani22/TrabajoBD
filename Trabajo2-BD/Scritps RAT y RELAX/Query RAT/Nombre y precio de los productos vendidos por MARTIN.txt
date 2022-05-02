@@ -1,1 +1,0 @@
-Π{productos.precio, productos.nombre}(σ{empleados.nombre = 'MARTIN'  ∧  ventas.EMPLEADOS_rut = empleados.rut  ∧  ventas.num_venta = ventas_detalle.VENTAS_num_venta  ∧  ventas_detalle.PRODUCTOS_codigo = productos.codigo}(productos × ventas × empleados × ventas_detalle))

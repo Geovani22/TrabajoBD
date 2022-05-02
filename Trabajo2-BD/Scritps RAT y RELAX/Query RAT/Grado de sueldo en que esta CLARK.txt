@@ -1,1 +1,0 @@
-Π{grado.grado}(σ{empleados.sueldo>grado.sueldo_inf  ∧empleados.sueldo<grado.sueldo_sup ∧ empleados.nombre='CLARK'}(grado  × empleados)  )

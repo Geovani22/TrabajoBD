@@ -1,3 +1,0 @@
-π sumaxca γ ; MAX(sumca)→sumaxca ρ total ( π PRODUCTOS_codigo, sumca γ PRODUCTOS_codigo; SUM(cantidad)→sumca ventas_detalle )
-
-π productos.nombre σ productos.codigo = total.PRODUCTOS_codigo and total.sumca = 20 ( productos ⨯ ρ total ( π PRODUCTOS_codigo, sumca γ PRODUCTOS_codigo; SUM(cantidad)→sumca ventas_detalle ) )

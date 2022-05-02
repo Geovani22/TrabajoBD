@@ -1,2 +1,0 @@
-π maxpre γ ; MAX(precio)→maxpre σ productos.codigo = ventas_detalle.PRODUCTOS_codigo ( productos ⨯ ventas_detalle )
-π empleados.nombre σ empleados.rut = ventas.EMPLEADOS_rut and ventas.num_venta = ventas_detalle.VENTAS_num_venta and ventas_detalle.PRODUCTOS_codigo = productos.codigo and productos.precio = (130487) ( ( ( empleados ⨯ ventas_detalle ) ⨯ ventas ) ⨯ productos )

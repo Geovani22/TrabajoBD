@@ -1,1 +1,0 @@
-π deptos.nombre, suelemp γ deptos.nombre, deptos.numdp; SUM(empleados.sueldo)→suelemp σ deptos.numdp = empleados.DEPTOS_numdep ( empleados ⨯ deptos )

@@ -1,3 +1,0 @@
-π sumaxd γ ; MAX(suma)→sumaxd ρ total ( π DEPTOS_numdep, suma γ DEPTOS_numdep; COUNT(rut)→suma empleados )
-
-π deptos.nombre σ deptos.numdp = total.DEPTOS_numdep and total.suma = 4 ( deptos ⨯ ρ total ( π DEPTOS_numdep, suma γ DEPTOS_numdep; COUNT(rut)→suma empleados ) )

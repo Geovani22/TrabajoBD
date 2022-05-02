@@ -1,1 +1,0 @@
-proveedor⋈Π{PROVEEDOR_SNUM}(σ{PIEZA_PNUM='p4'}(envio))⋈Π{PROVEEDOR_SNUM}(σ{PIEZA_PNUM='p5'}(envio)) 

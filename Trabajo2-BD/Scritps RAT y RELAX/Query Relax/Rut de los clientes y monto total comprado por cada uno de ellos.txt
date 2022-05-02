@@ -1,1 +1,0 @@
-π rutvent, clientes.rut γ clientes.rut; SUM(ventas.monto)→rutvent σ ventas.CLIENTES_rut = clientes.rut ( ventas ⨯ clientes )

@@ -1,1 +1,0 @@
-π productos.nombre, sumtotpr γ productos.nombre, productos.codigo; SUM(ventas_detalle.cantidad)→sumtotpr σ productos.codigo = ventas_detalle.PRODUCTOS_codigo ( productos ⨯ ventas_detalle )

@@ -1,1 +1,0 @@
-Π{ciudad}(σ{nombre = 'SALES'}(deptos))

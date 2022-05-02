@@ -1,3 +1,0 @@
-π sumcli γ ; MAX(suma)→sumcli ρ total ( π CLIENTES_rut, suma γ CLIENTES_rut; COUNT(CLIENTES_rut)→suma ventas )
-
-π clientes.nombre σ clientes.rut = total.CLIENTES_rut and total.sumanom = 2 ( clientes ⨯ ρ total ( π CLIENTES_rut, sumanom γ CLIENTES_rut; COUNT(CLIENTES_rut)→sumanom ventas ) )

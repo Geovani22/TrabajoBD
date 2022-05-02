@@ -1,1 +1,0 @@
-π sumtome γ ; COUNT(clientes.rut)→sumtome σ clientes.rut = total.CLIENTES_rut ( clientes ⨯ ρ total ( π ventas.CLIENTES_rut π ventas.CLIENTES_rut σ ventas.num_venta = ventas_detalle.VENTAS_num_venta and ventas_detalle.PRODUCTOS_codigo = productos.codigo and productos.nombre = 'mesa' ( ( ventas ⨯ ventas_detalle ) ⨯ productos ) ) )
